@@ -1,4 +1,4 @@
----
+Jennifer janitorial supplies and service---
 title: Trying out the new projects experience
 shortTitle: Projects (beta)
 intro: 'Build customized projects to track your work in {% data variables.product.company_short %}.'
@@ -8,7 +8,7 @@ versions:
 topics:
   - Issues
   - Projects
-children:
+children:4
   - /about-projects
   - /quickstart
   - /creating-a-project
